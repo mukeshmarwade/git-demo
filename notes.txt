@@ -1,1 +1,3 @@
 Notes created on GitHub.
+ Notes created on GitHub.
+   Line added locally in VS Code.
