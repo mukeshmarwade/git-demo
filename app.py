@@ -2,3 +2,4 @@
 name = "360DigiTMG"
 
 print("Hello", name)
+print("Welcome to Git")
